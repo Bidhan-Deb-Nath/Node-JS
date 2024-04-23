@@ -1,0 +1,7 @@
+1. My name is Bidhan deb nath.
+2. I am a software engineer by profession.
+3. I have completed my masters in computer science from the Southeast University.
+4. Currently, I work as a software engineer at women in digital, Dhaka-Bangladesh.
+5. In my free time, I like to write articles and blog posts on various topics related to technology and programming.
+6. My main area of interest lies in web technologies and mobile applications development.
+6. In addition to that, I also enjoy working on embedded systems and cloud computing projects.
